@@ -1,6 +1,6 @@
 # Order matching engine
 
-```
+
 		    +-------------------------+
             |       User Client       |
             +-------------------------+
@@ -34,7 +34,6 @@
     +-------------------+-------------------+
     |          send back response           |
     +-------------------+-------------------+
-```
 
     The diagram shows the main components of the system:
 
